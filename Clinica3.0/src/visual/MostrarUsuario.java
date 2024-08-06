@@ -82,7 +82,7 @@ public class MostrarUsuario extends JDialog {
 		pac.getMisVacunas().add(vac1);
 		Clinica.getInstance().insertarPaciente(pac);
 		*/
-		
+		/// xxdpatata
 		setResizable(false);
 		setTitle("Usuarios");
 		setBounds(100, 100, 962, 495);
