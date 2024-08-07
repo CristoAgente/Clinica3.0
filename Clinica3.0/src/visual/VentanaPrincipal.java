@@ -52,7 +52,7 @@ public class VentanaPrincipal extends JFrame {
 		addWindowListener(new WindowAdapter() {
 			@Override
 			public void windowClosing(WindowEvent e) {
-				
+				/*
 				FileOutputStream fclinica2;
 				ObjectOutputStream fclinicaWrite;
 				try {
@@ -68,7 +68,7 @@ public class VentanaPrincipal extends JFrame {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
 				}
-				
+				*/
 			}
 		});
 		
